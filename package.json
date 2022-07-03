@@ -1,0 +1,23 @@
+{
+  "name": "fantasyrank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "content.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rceglie/fantasyrank.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rceglie/fantasyrank/issues"
+  },
+  "homepage": "https://github.com/rceglie/fantasyrank#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "jquery": "^3.6.0"
+  }
+}
